@@ -81,7 +81,7 @@ Update the User-Agent to avoid request blocking.
 
 ##  How to Use
 1. Clone the Repository
-git clone [https://github.com/gsthendaarnika/Amazon-product-Scraper]
+git clone [https://github.com/Varunnachimuthu-S/Amazon-product-Scraper]
 cd amazon-web-scraper
 
 
